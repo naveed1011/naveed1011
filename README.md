@@ -1,5 +1,5 @@
 <h3 align="center">A passionate programmer and problem solver</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xG1gcsyJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg"/>
+<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>
 <p align="left"> <img src="color=0e75b6&style=flat" alt="naveedahmad1011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveedahmad1011" alt="naveedahmad1011" /></a> </p>
