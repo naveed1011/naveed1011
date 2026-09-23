@@ -74,16 +74,9 @@ Developed a multi-view deep learning framework for detecting early progression f
 - 🏆 **Q1 Journal Publication** — *Image and Vision Computing*, IF 4.2, Top 10% worldwide (2025)
 
 ---
-
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveed1011&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=EF4444&icon_color=EF4444&text_color=F2F2F2&border_color=EF444440" alt="Naveed's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed1011&layout=compact&theme=dark&bg_color=0D0D0D&title_color=EF4444&text_color=F2F2F2&border_color=EF444440" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naveed1011&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=EF4444&icon_color=EF4444&text_color=F2F2F2&border_color=EF4444" alt="Naveed's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed1011&layout=compact&theme=dark&bg_color=0D0D0D&title_color=EF4444&text_color=F2F2F2&border_color=EF4444" alt="Top Languages" width="48%"/>
 </p>
-
 ---
-
-<p align="center">
-  <i>"Building AI systems that doctors can trust and patients can benefit from."</i>
-</p>
