@@ -71,15 +71,3 @@ Developed a multi-view deep learning framework for detecting early progression f
 
 ## Honours & Awards
 - 🏆 **Q1 Journal Publication** — *Image and Vision Computing*, IF 4.2, Top 10% worldwide (2025)
-
----
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveed1011&show_icons=true&theme=tokyonight" alt="Naveed's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed1011&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
-
----
-<p align="center">
-  <i>"Building AI systems that doctors can trust and patients can benefit from."</i>
-</p>
